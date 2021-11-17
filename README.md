@@ -5,7 +5,7 @@
 You can install the package via git:
 
 ```shell
-git clone https://github.com/shivragshukla/laravel-vue.git
+git clone https://github.com/shivrag-neo/mednet-task.git
 ```
 
 #### Package install
